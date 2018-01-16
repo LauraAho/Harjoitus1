@@ -8,6 +8,8 @@ Hei
 muutos 2
 
 
+<<<<<<< HEAD
 matin muutos
 
 Tepin muutos
+matin muutos seuraava tehtävä
